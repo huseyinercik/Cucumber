@@ -13,8 +13,8 @@ import org.junit.runner.RunWith;
         },
         features = "src/test/resources/features",
         glue = "stepDefinitions",
-        tags = "@heroku",
-        dryRun = false
+        tags = "@gittigidiyor",
+        dryRun = true
 )
 
 public class TestRunner {

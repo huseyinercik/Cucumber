@@ -13,6 +13,7 @@ import java.time.Duration;
 
 public class Driver {
 
+
     /*
     POM de Driver icin TestBase class ina extends etmek yerine
     driver class indan static method lar kullanarak

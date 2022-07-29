@@ -19,7 +19,7 @@ Feature: US1001 kullanici Amazon Sayfasinda Arama Yapar
     And sonuclarin Java icerdigini test eder
     And sayfayi kapatir
 
-  @iphone
+  @iphone @sirali
   Scenario: TC03 kullanici amazonda iphone aratir
 
     When kullanici amazon anasayfasinda
